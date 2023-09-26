@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align="center">
+  <img src="./images/hero-banner.png" width="100%" alt="Banner">
+</div>
 
-<!--
-**alamindevms/alamindevms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>ABOUT ME</h3>
+I'm a frontend developer passionate about crafting user-friendly web interfaces. With a keen eye for design and a knack for turning ideas into responsive, elegant websites, I thrive on delivering seamless digital experiences.
 
-Here are some ideas to get you started:
+<h3>EXPERIENCE</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've experience working in a private company and as a freelancer.
+
+I've spent most of my time as a developer with the following stacks:
+
+-   <img src="https://img.shields.io/badge/Vue | JavaScript-Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Nuxt.js (Vue) -- Tailwind CSS-grey" alt="Nuxt.js (Vue) and Tailwind CSS">
+-   <img src="https://img.shields.io/badge/React   |  TypeScript-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/-Next.js (React) -- Tailwind CSS-grey" alt="Next.js (React) and Tailwind CSS">
+
+In general terms, I have 2 years of experience with the Vue, React ecosystem and 6 months with the TypeScript.
+
+<h3>Technologies</h3>
+
+<div align="center">
+  <img src="./images/technologies.png" width="100%" alt="Technologies">
+</div>
+<br>
