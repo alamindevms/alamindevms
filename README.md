@@ -14,7 +14,7 @@ I've spent most of my time as a developer with the following stacks:
 -   <img src="https://img.shields.io/badge/Vue | JavaScript-Frontend-white?labelColor=black" alt="Frontend"> <img src="https://img.shields.io/badge/-Nuxt.js (Vue) -- Tailwind CSS-grey" alt="Nuxt.js (Vue) and Tailwind CSS">
 -   <img src="https://img.shields.io/badge/React   |  TypeScript-Front--end-white?labelColor=black" alt="Front-end with TypeScript and SCSS"> <img src="https://img.shields.io/badge/-Next.js (React) -- Tailwind CSS-grey" alt="Next.js (React) and Tailwind CSS">
 
-In general terms, I have 2 years of experience with the Vue, React ecosystem and 6 months with the TypeScript.
+In general terms, proficient in the Vue and React ecosystems. Skilled in TypeScript and committed to writing clean, maintainable code for scalable solutions.
 
 <h3>Technologies</h3>
 
